@@ -1,6 +1,6 @@
 # jpa01-riasinha
 
-Deployed at: http://jpa01-riasinha.dokku-15.cs.ucsb.edu/
+Deployed at: https://jpa01-riasinha.dokku-15.cs.ucsb.edu/
 
 # About this repo
 
